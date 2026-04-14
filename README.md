@@ -4,7 +4,7 @@
 🔭 Aspiring Data Scientist
 🌱 Currently learning: Python, ML & Data Analysis
 🏆 Research Paper presented @ RAET'26 National Conference
-🌐 Participated in DEKATHON 4.0 Indo-Malaysian Hackathon
+🌐 Participated in DEKATHON 4.0 Indo-Malaysian Hackathon(2026)
 
 ---
 
