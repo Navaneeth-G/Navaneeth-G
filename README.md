@@ -35,4 +35,4 @@ Mild Cognitive Impairment from brain MRI scans.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-g-b1a735278)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:navaneethgnambiar@gmail.com)
 
-⭐️ *Building my journey from student to Data Scientist — one project at a time.*
+⭐️ *Building my journey from a student to Data Scientist — one project at a time.*
