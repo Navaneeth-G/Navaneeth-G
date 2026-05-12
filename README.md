@@ -30,6 +30,7 @@
 </a>
 
 ### 🧠 Early Detection of MCI — Deep Feature Fusion CNN
+
 > Published at **RAET'26** National Conference | March 2026
 
 Built a **dual-backbone deep learning system** using  
@@ -58,4 +59,4 @@ Mild Cognitive Impairment from brain MRI scans.
 
 ---
 
-⭐ *From research to deployment — building Data Science that matters.*
+⭐**From research to deployment — building Data Science that matters.**
