@@ -1,62 +1,116 @@
-# Hi, I'm Navaneeth G 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,100:1E3A5F&section=header&fontAlign=50&fontAlignY=30&text=Navaneeth%20G&desc=Data%20Science%20%7C%20Deep%20Learning%20%7C%20Medical%20AI&fontSize=38&fontColor=ffffff&descSize=14&descColor=94A3B8" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Navaneeth-G&color=blue)
-
-🎓 **B.Tech CS (Data Science)** @ STM Kannur, Kerala  
-🧠 **Building in Deep Learning & Medical AI**  
-📊 Currently learning: Python, ML & Data Analysis  
-📄 Research Paper presented @ **RAET'26 National Conference**  
-🌐 Participated in **DEKATHON 4.0** Indo-Malaysian Hackathon (2026)
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
+  <p>
+    <strong>B.Tech CS (Data Science)</strong> — STM College of Engineering, Kannur<br>
+    <strong>Published Researcher</strong> — RAET'26 National Conference<br>
+    <strong>Hackathon Participant</strong> — DEKATHON 4.0 Indo-Malaysian
+  </p>
+</div>
 
 ---
 
-## 🔬 Featured Research Project
-
-<a href="https://github.com/Navaneeth-G/Early-Detection-of-MCI">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Navaneeth-G&repo=Early-Detection-of-MCI&theme=dark" />
-</a>
-
-### 🧠 Early Detection of MCI — Deep Feature Fusion CNN
-
-> Published at **RAET'26** National Conference | March 2026
-
-Built a **dual-backbone deep learning system** using  
-**ResNet50 + DenseNet121** for early detection of  
-Mild Cognitive Impairment from brain MRI scans.
-
-🔗 [View Repository](https://github.com/Navaneeth-G/Early-Detection-of-MCI)
-
-<br clear="right"/>
+<div align="center">
+  <h3>⚡ What I'm Building</h3>
+  <p>
+    I'm not just studying Data Science. I'm applying it.<br>
+    From medical AI systems to analytics dashboards,<br>
+    every project is a step toward industry readiness.
+  </p>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-
-![Navaneeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Navaneeth-G&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth-G&layout=compact&theme=dark&hide_border=true)
+<div align="center">
+  <h3>🧰 Toolkit</h3>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" />
+        <br /><sub><strong>Python</strong></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" height="36" />
+        <br /><sub><strong>R</strong></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" />
+        <br /><sub><strong>SQL</strong></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" height="36" />
+        <br /><sub><strong>Power BI</strong></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" />
+        <br /><sub><strong>TensorFlow</strong></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="36" height="36" />
+        <br /><sub><strong>Streamlit</strong></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" />
+        <br /><sub><strong>Git</strong></sub>
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" />
+        <br /><sub><strong>VS Code</strong></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaneeth-g-b1a735278)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navaneethgnambiar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Navaneeth-G)
+<div align="center">
+  <h3>🔬 Flagship Project</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🧠 Early Detection of MCI</strong><br>
+        <em>Deep Feature Fusion CNN</em><br><br>
+        <sub>Published at <strong>RAET'26</strong> — March 2026</sub><br>
+        <sub>ResNet50 + DenseNet121 · Streamlit · TensorFlow</sub><br><br>
+        <a href="https://github.com/Navaneeth-G/Early-Detection-of-MCI">
+          <img src="https://img.shields.io/badge/View_Repository-0D1117?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-⭐**From research to deployment — building Data Science that matters.**
+<div align="center">
+  <h3>📬 Reach Me</h3>
+  <a href="https://www.linkedin.com/in/navaneeth-g-b1a735278">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:navaneethgnambiar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Navaneeth-G">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+---
+
+<div align="center">
+  <strong>From research to deployment — building Data Science that matters.</strong>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0D1117,100:1E3A5F&section=footer" />
+</div>
