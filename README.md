@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+with+Data.;Backed+by+Research." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=Building+with+Data.;Backed+by+Research." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://navaneeth-f9362.web.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-00d4ff?style=for-the-badge&logo=firebase&logoColor=black" /></a>
+  <a href="https://navaneeth-f9362.web.app"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=firebase&logoColor=black" /></a>
   <a href="https://linkedin.com/in/navaneeth-g-b1a735278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Navaneeth-G"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:navaneethgnambiar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -64,14 +64,15 @@
 
 ---
 
-<h3 align="center">📈 GitHub Activity</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navaneeth-G&theme=react-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Navaneeth-G&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=94A3B8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth-G&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth-G&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth-G&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
 </p>
 
 ---
