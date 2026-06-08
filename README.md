@@ -2,115 +2,106 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,100:1E3A5F&section=header&fontAlign=50&fontAlignY=30&text=Navaneeth%20G&desc=Data%20Science%20%7C%20Deep%20Learning%20%7C%20Medical%20AI&fontSize=38&fontColor=ffffff&descSize=14&descColor=94A3B8" />
 </div>
 
+<p align="center">
+  <a href="https://navaneeth-f9362.web.app"><img src="https://img.shields.io/badge/Portfolio-00d4ff?style=flat-square&logo=firebase&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/navaneeth-g-b1a735278"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Navaneeth-G"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:navaneethgnambiar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=435&lines=Building+with+Data.;Backed+by+Research." alt="Typing animation" />
+</p>
+
+---
+
 <div align="center">
   <p>
-    <strong>B.Tech CS (Data Science)</strong> — STM College of Engineering, Kannur<br>
-    <strong>Published Researcher</strong> — RAET'26 National Conference<br>
-    <strong>Hackathon Participant</strong> — DEKATHON 4.0 Indo-Malaysian
+    <strong>B.Tech CS (Data Science)</strong> — St. Thomas College of Engineering & Technology, Kannur, Kerala<br>
+    Aspiring Data Scientist | Research Enthusiast | Hackathon Participant
   </p>
 </div>
 
----
+```diff
+! “Still figuring out my exact path in Data Science — 
+!  but I show up every day and keep building.”
 
-<div align="center">
-  <h3>⚡ What I'm Building</h3>
-  <p>
-    I'm not just studying Data Science. I'm applying it.<br>
-    From medical AI systems to analytics dashboards,<br>
-    every project is a step toward industry readiness.
-  </p>
-</div>
 
----
+  ⚡ What I'm Building
+  I'm not just studying Data Science. I'm applying it.
 
-<div align="center">
-  <h3>🧰 Toolkit</h3>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" />
-        <br /><sub><strong>Python</strong></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" height="36" />
-        <br /><sub><strong>R</strong></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" />
-        <br /><sub><strong>SQL</strong></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" height="36" />
-        <br /><sub><strong>Power BI</strong></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" />
-        <br /><sub><strong>TensorFlow</strong></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="36" height="36" />
-        <br /><sub><strong>Streamlit</strong></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" />
-        <br /><sub><strong>Git</strong></sub>
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" />
-        <br /><sub><strong>VS Code</strong></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+  From medical AI systems to analytics dashboards, every project is a step toward industry readiness.
 
----
+🛠️ Toolkit
 
-<div align="center">
-  <h3>🔬 Flagship Project</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <strong>🧠 Early Detection of MCI</strong><br>
-        <em>Deep Feature Fusion CNN</em><br><br>
-        <sub>Published at <strong>RAET'26</strong> — March 2026</sub><br>
-        <sub>ResNet50 + DenseNet121 · Streamlit · TensorFlow</sub><br><br>
-        <a href="https://github.com/Navaneeth-G/Early-Detection-of-MCI">
-          <img src="https://img.shields.io/badge/View_Repository-0D1117?style=flat-square&logo=github&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36">
 
----
+      Python
+    
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="36" height="36">
 
-<div align="center">
-  <h3>📬 Reach Me</h3>
-  <a href="https://www.linkedin.com/in/navaneeth-g-b1a735278">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:navaneethgnambiar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Navaneeth-G">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+      R
+    
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36">
 
----
+      SQL
+    
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="36" height="36">
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
+      Power BI
+    
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36">
 
----
+      TensorFlow
+    
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" width="36" height="36">
 
-<div align="center">
-  <strong>From research to deployment — building Data Science that matters.</strong>
-</div>
+      Streamlit
+    
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0D1117,100:1E3A5F&section=footer" />
-</div>
+      Git
+    
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36">
+
+      VS Code
+    
+
+🔬 Flagship Project
+🧠 Early Detection of MCI
+Stacked Feature Fusion of ResNet50 + DenseNet121
+
+Deep Learning model for early detection of Mild Cognitive Impairment from brain MRI scans
+Built with TensorFlow/Keras, dual-backbone architecture, and Streamlit web app
+Includes data preprocessing, training pipeline, evaluation, and single-image prediction
+Presented at RAET'26 National Conference
+
+View Repository →
+
+📈 GitHub Stats
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Navaneeth-G&#x26;show_icons=true&#x26;theme=dark&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=00D4FF">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Navaneeth-G&#x26;theme=dark&#x26;hide_border=true&#x26;background=0D1117&#x26;ring=00D4FF&#x26;fire=00D4FF&#x26;currStreakLabel=00D4FF">
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth-G&#x26;layout=compact&#x26;theme=dark&#x26;hide_border=true&#x26;bg_color=0D1117&#x26;title_color=00D4FF">
+
+
+📬 Let's Connect
+
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white">
+
+
+  <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white">
+
+
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white">
+
+
+
+  From research to deployment — building Data Science that matters.
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&#x26;height=80&#x26;color=0:0D1117,100:1E3A5F&#x26;section=footer">
+
+```
