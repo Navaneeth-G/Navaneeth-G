@@ -42,7 +42,7 @@ Co-author of a paper presented at RAET'26 (MCI detection) · Edge IoT & Smart Au
 
 **Early Detection of MCI: Stacked CNN Feature Fusion**  
 - Team paper presented at **RAET'26** (March 2026)  
-- Pipeline code: ResNet50 + DenseNet121 · Streamlit · TensorFlow  
+- ResNet50 + DenseNet121 · Streamlit · TensorFlow  
 - Pipeline code only: ADNI data and trained weights are not included
 
 <p align="center">
