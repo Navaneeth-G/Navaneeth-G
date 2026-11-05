@@ -29,7 +29,7 @@ Co-author of a paper presented at RAET'26 (MCI detection) · Edge IoT & Smart Au
 ### 🧰 Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,git,vscode" alt="Python, Streamlit, Git, VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" alt="Python, MySQL, Git, VS Code" />
 </p>
 
 <p align="center">
