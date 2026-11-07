@@ -19,21 +19,15 @@ Co-author of a paper presented at RAET'26 (MCI detection) · Edge IoT & Smart Au
 
 ---
 
-### 🛠️ What I'm Building
+### 🚀 Projects
 
-- **AQUASIFT**: AI-based floating waste detection and selective collection (final-year project, team of four)
-- **GestureHalo**: web-based gesture recognition prototype, being rebuilt with real signal-processing inference
-
----
-
-### 🧰 Toolkit
+**GestureHalo**: recognises idle, wave and circle from a phone's accelerometer. A small Edge Impulse model runs in the browser as WebAssembly.  
+- 98.73% per-window accuracy on 15 held-out recordings (one person, one phone)  
+- Edge Impulse · WebAssembly · Firebase Hosting
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" alt="Python, MySQL, Git, VS Code" />
-</p>
-
-<p align="center">
-  <i>Currently learning: Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Statistics</i>
+  <a href="https://gesturehalo.web.app"><img src="https://img.shields.io/badge/Live_Demo-00d4ff?style=for-the-badge&logoColor=black" alt="Live demo" /></a>
+  <a href="https://github.com/Navaneeth-G/GestureHalo"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GestureHalo repository" /></a>
 </p>
 
 ---
@@ -49,6 +43,24 @@ Co-author of a paper presented at RAET'26 (MCI detection) · Edge IoT & Smart Au
   <a href="https://github.com/Navaneeth-G/Early-Detection-of-MCI">
     <img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
   </a>
+</p>
+
+---
+
+### 🛠️ In Progress
+
+- **AQUASIFT**: AI-based floating waste detection and selective collection (final-year project, team of four)
+
+---
+
+### 🧰 Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,firebase,git,vscode" alt="Python, Firebase, Git, VS Code" />
+</p>
+
+<p align="center">
+  <i>Currently learning: Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Statistics</i>
 </p>
 
 ---
