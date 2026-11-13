@@ -89,6 +89,13 @@ Co-author of a paper presented at RAET'26 (MCI detection) · Edge IoT & Smart Au
 
 ---
 
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="dashboard.svg" alt="GitHub dashboard" width="760" />
+</p>
+
+---
 <p align="center">
   <strong>Open to data and ML internships.</strong>
 </p>
