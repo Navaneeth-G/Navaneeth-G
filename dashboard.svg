@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" role="img" aria-label="GitHub dashboard for Navaneeth-G">
+<rect x="0.5" y="0.5" width="759" height="379" rx="14" fill="#0D1117" stroke="#1E3A5F"/>
+<text x="24" y="38" fill="#f0f0ff" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">GitHub Dashboard</text>
+<text x="736" y="38" fill="#5a5a7a" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end">@Navaneeth-G</text>
+<rect x="24.0" y="56" width="164" height="64" rx="10" fill="#0f0f20" stroke="#1E3A5F"/>
+<text x="38.0" y="88" fill="#00d4ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">4</text>
+<text x="38.0" y="108" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="11">Public repos</text>
+<rect x="206.7" y="56" width="164" height="64" rx="10" fill="#0f0f20" stroke="#1E3A5F"/>
+<text x="220.7" y="88" fill="#00d4ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">3</text>
+<text x="220.7" y="108" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="11">Stars earned</text>
+<rect x="389.3" y="56" width="164" height="64" rx="10" fill="#0f0f20" stroke="#1E3A5F"/>
+<text x="403.3" y="88" fill="#00d4ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">11</text>
+<text x="403.3" y="108" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="11">Followers</text>
+<rect x="572.0" y="56" width="164" height="64" rx="10" fill="#0f0f20" stroke="#1E3A5F"/>
+<text x="586.0" y="88" fill="#00d4ff" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">13 Nov 2026</text>
+<text x="586.0" y="108" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="11">Last push</text>
+<text x="24" y="150" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.5">LANGUAGES (BY CODE VOLUME)</text>
+<clipPath id="bar"><rect x="24" y="160" width="712" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+<rect x="24.0" y="160" width="407.9" height="10" fill="#e34c26"/>
+<rect x="431.9" y="160" width="304.1" height="10" fill="#3572A5"/>
+</g>
+<circle cx="29" cy="192" r="5" fill="#e34c26"/>
+<text x="40" y="196" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">HTML 57.3%</text>
+<circle cx="133.0" cy="192" r="5" fill="#3572A5"/>
+<text x="144.0" y="196" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">Python 42.7%</text>
+<text x="24" y="236" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.5">RECENTLY UPDATED</text>
+<text x="24" y="262" fill="#f0f0ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Navaneeth-G</text>
+<circle cx="300" cy="258" r="4" fill="#3572A5"/>
+<text x="311" y="262" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">Python</text>
+<text x="440" y="262" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">★ 0</text>
+<text x="736" y="262" fill="#5a5a7a" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end">pushed 13 Nov 2026</text>
+<text x="24" y="288" fill="#f0f0ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">GestureHalo</text>
+<circle cx="300" cy="284" r="4" fill="#e34c26"/>
+<text x="311" y="288" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">HTML</text>
+<text x="440" y="288" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">★ 1</text>
+<text x="736" y="288" fill="#5a5a7a" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end">pushed 13 Nov 2026</text>
+<text x="24" y="314" fill="#f0f0ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Internship-IOT-ML</text>
+<circle cx="300" cy="310" r="4" fill="#e34c26"/>
+<text x="311" y="314" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">HTML</text>
+<text x="440" y="314" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">★ 0</text>
+<text x="736" y="314" fill="#5a5a7a" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end">pushed 05 Nov 2026</text>
+<text x="24" y="340" fill="#f0f0ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">Early-Detection-of-MCI</text>
+<circle cx="300" cy="336" r="4" fill="#3572A5"/>
+<text x="311" y="340" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">Python</text>
+<text x="440" y="340" fill="#9090b0" font-family="Segoe UI,Arial,sans-serif" font-size="12">★ 2</text>
+<text x="736" y="340" fill="#5a5a7a" font-family="Segoe UI,Arial,sans-serif" font-size="12" text-anchor="end">pushed 05 Nov 2026</text>
+<text x="736" y="368" fill="#5a5a7a" font-family="Segoe UI,Arial,sans-serif" font-size="10" text-anchor="end">Generated from the GitHub API on 13 Nov 2026 (public repos only)</text>
+</svg>
