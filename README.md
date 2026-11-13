@@ -89,15 +89,6 @@ Co-author of a paper presented at RAET'26 (MCI detection) · Edge IoT & Smart Au
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Navaneeth-G&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=9090b0&icon_color=4f6ef7" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navaneeth-G&layout=compact&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=9090b0" alt="Top languages" />
-</p>
-
----
-
 <p align="center">
   <strong>Open to data and ML internships.</strong>
 </p>
