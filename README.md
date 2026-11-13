@@ -53,14 +53,38 @@ Co-author of a paper presented at RAET'26 (MCI detection) · Edge IoT & Smart Au
 
 ---
 
-### 🧰 Toolkit
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,firebase,git,vscode" alt="Python, Firebase, Git, VS Code" />
+<p align="center"><b>Languages</b><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<p align="center">
-  <i>Currently learning: Pandas, NumPy, Matplotlib, Seaborn, Data Cleaning, Statistics</i>
+<p align="center"><b>Machine Learning &amp; Edge</b><br>
+<img src="https://img.shields.io/badge/Edge%20Impulse-3b82f6?style=flat-square" alt="Edge Impulse">
+<img src="https://img.shields.io/badge/TinyML-0ea5e9?style=flat-square" alt="TinyML">
+<img src="https://img.shields.io/badge/WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+</p>
+
+<p align="center"><b>Web &amp; Cloud</b><br>
+<img src="https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Hosting">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Web%20Sensor%20APIs-0d9488?style=flat-square" alt="Web Sensor APIs">
+</p>
+
+<p align="center"><b>Tools</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+<img src="https://img.shields.io/badge/KiCad%20(intro)-314CB0?style=flat-square" alt="KiCad intro">
+<img src="https://img.shields.io/badge/Power%20BI%20(basic)-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI basic">
 </p>
 
 ---
